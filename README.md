@@ -1,4 +1,4 @@
-# LangChain Gemini QA System
+# LangChain Gemini 
 
 This project is a simple **LLM-based question answering system** built using **LangChain and Google Gemini**.
 
